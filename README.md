@@ -9,9 +9,9 @@
 
 ## Overview
 
-Arma Build Helper is a desktop utility that automates key holding in a safe and controlled way. It comes with a GUI, info panel, and live log to track actions.  
+Arma Build Helper is a desktop utility that automates key holding for building in game! When you double tap F after 0.5 seconds it will keep holding F till its build and you can move on!  
 
-It allows you to double-tap the `F` key to start holding it automatically and stops holding when any other keyboard key is pressed. Mouse movements and clicks do not interrupt the hold.
+The program stops holding when any other keyboard key is pressed. Mouse movements and clicks do not interrupt the hold.
 
 ---
 
