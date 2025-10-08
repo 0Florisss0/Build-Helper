@@ -18,7 +18,6 @@ class FBotGUI:
         self.toggle_key = "insert"  # default
         self.listening_for_key = False
 
-        # Title / watermark
         tk.Label(root, text="F Hold Bot v2", font=("Arial", 16, "bold")).pack(pady=5)
         tk.Label(root, text="@ReforgerClips", font=("Arial", 10), fg="gray").pack()
 
@@ -119,3 +118,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = FBotGUI(root)
     root.mainloop()
+
