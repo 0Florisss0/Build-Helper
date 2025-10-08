@@ -22,11 +22,14 @@ It allows you to double-tap the `F` key to start holding it automatically and st
 - Custom toggle key to start/stop the bot  
 - GUI with info panel, log panel, and watermark  
 - Safe: does not send any data externally  
+- **Standalone .exe available:** works without installing Python  
+- **Zip distribution** included for smaller file transfer
 
 ---
 
 ## Installation
 
+### Python version
 1. Install Python 3.13+  
 2. Install dependencies:
 
